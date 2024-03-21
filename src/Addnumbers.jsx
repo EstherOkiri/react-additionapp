@@ -7,7 +7,6 @@ function Add(){
      
     return (
        result = num1 + num2
-       
     
     )
 
